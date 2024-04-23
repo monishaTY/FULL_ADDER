@@ -51,7 +51,7 @@ endmodule
 ![image](https://github.com/RESMIRNAIR/FULL_ADDER/assets/154305926/418e00aa-ed19-4ab3-a413-bae9575bff0e)
 ![image](https://github.com/RESMIRNAIR/FULL_ADDER/assets/154305926/0c26fe47-d78c-43dd-ac0d-804e427a3bbc)
 
-# outpt
+# output
 
 ![image](https://github.com/monishaTY/FULL_ADDER/assets/167846996/ed6872c2-4475-4127-89cc-3faaa8990919)
 
